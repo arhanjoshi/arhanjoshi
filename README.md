@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/sugamraut/sugamraut/blob/main/jpeg.jpg" width="200"/></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=SugamRaut&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=arhanjoshi&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hi, I'm Arhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
  </h1>
@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40"style="margin: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40"style="margin: 10px;">
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg" title="Reactjs" alt="Reactjs" width="40" style="margin: 10px;"> 
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" style="margin: 10px;"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" style="margin: 10px;"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" title="Pandas" alt="Pandas" width="40" style="margin: 10px;"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" style="margin: 10px;">
    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40"style="margin: 10px;">
