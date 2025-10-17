@@ -7,6 +7,8 @@
 -  I’m interested in Data Analysis and SWD.
 -  I’m actively looking for Internship/Full-time Opportunities.
 -  Interning at FourSymmetrons as an ML Intern learning ML, Convolution Neural Network, Image Detection and Extraction using YOLOv8 and Detectron2.
+-  Working part-time as a Data Analyst for Quantitative Research project at Arizona State University.
+-  Working part-time as a Coding Instructor at iCode teaching computer science and programming to kids aged 6-15.
 
   ### 🤝 Connect with me:
   <div align="center">
